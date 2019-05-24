@@ -1,0 +1,20 @@
+.priP{color:blue;}
+
+em{
+	font-size: 20px;
+}
+
+p span b{
+     text-decoration: underline;
+     color:red;
+}
+
+*{
+
+	font-family: Bahnschrift;
+	padding-left:  5px;
+  padding-right: 5px;
+  margin-left:   10px;
+  margin-right:  10px;
+  background-color: #EAE991 ;
+}
